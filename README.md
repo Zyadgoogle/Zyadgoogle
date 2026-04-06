@@ -8,7 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zyad-elattar-ba88152b1)
 
 </div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zyadgoogle&label=Profile%20Views&color=0077B5&style=flat-back-edge" alt="Zyadgoogle" />
+</p>
 ---
 
 ### 👤 About Me
