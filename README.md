@@ -21,7 +21,7 @@
     <a href="https://www.linkedin.com/in/zyad-elattar-ba88152b1">Portfolio (LinkedIn)</a>
   </p>
 </div>
----
+<div align="center">
 
 ### 👤 About Me
 - 🎓 **Senior AI Student** at Pharos University in Alexandria.
