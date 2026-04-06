@@ -43,6 +43,12 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
+<div align="center">
+  
+  ## 📊 My GitHub Stats
+  
+  ![Zyad's Stats](https://github-readme-stats.vercel.app/api?username=Zyadgoogle&show_icons=true&theme=dark&hide_border=true&count_private=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyadgoogle&layout=compact&theme=dark&hide_border=true)
 
-### 📈 GitHub Stats
-![Zyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyadgoogle&show_icons=true&theme=dark)
+</div>
