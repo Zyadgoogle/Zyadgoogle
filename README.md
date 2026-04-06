@@ -26,7 +26,7 @@
 ### 👤 About Me
 - 🎓 **Senior AI Student** at Pharos University in Alexandria.
 - 🚀 ***Specializing in**: Computer Vision, Natural Language Processing, and Big Data Analytics.
-- 🏆 build fully Project solo
+- 🏆 build a full project solo.
 - 🧠**Passionate about**: Problem solving & UI.
 
 ---
