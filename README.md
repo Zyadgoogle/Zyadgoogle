@@ -22,6 +22,7 @@
   </p>
 </div>
 
+---
 
 ### 👤 About Me
 - 🎓 **Senior AI Student** at Pharos University in Alexandria.
