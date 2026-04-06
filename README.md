@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there 👋, I'm Zyad Elattar
-### AI Student | Specializing in Computer Vision, NLP & Big Data
+### 💻 AI Student | Specializing in Computer Vision, NLP & Big Data
 
 <br>
 
