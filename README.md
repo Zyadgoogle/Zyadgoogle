@@ -11,6 +11,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zyadgoogle&label=Profile%20Views&color=0077B5&style=flat-back-edge" alt="Zyadgoogle" />
 </p>
+<div align="center">
+  <p>Egypt</p>
+  <p>
+    <a href="mailto:zyadsaad207@gmail.com">zyadsaad207@gmail.com</a> | 
+    <a href="tel:+201004427740">+20 100 442 7740</a>
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/zyad-elattar-ba88152b1">Portfolio (LinkedIn)</a>
+  </p>
+</div>
 ---
 
 ### 👤 About Me
